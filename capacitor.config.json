@@ -1,0 +1,7 @@
+{
+  "appId": "studio.kariman.app",
+  "appName": "KARIMAN STUDIO",
+  "webDir": "www",
+  "backgroundColor": "#080808",
+  "android": { "backgroundColor": "#080808" }
+}
